@@ -17,7 +17,7 @@ import androidx.appcompat.app.AppCompatActivity;
  *
  * Layout File: activity_main.xml
  *
- * @author Lukas Plenk 
+ * @author Lukas Plenk
  */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
