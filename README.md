@@ -9,7 +9,11 @@ The application serves as an example of these features.
 
 ## Features
 The setting of the app is a login screen. The user can type in an email and a password for accessing the application.
-After clicking the Button for login, the two texts get shown in the next screen.
+After clicking the Button for login, the two texts get shown in the next screen. </br>
+
+![](demo_pictures/Screen1.png)
+![](demo_pictures/Screen2.png)
+![](demo_pictures/Screen3.png)
 
 ## Usage
 You can clone the repository into Android Studio by clicking "Get from VCS" in the Welcome Screen or navigating to "File - New - Project from Version Control" inside 
